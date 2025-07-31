@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "multiclass:glowing_shell"
+    },
+    "B": {
+      "item": "multiclass:ancient_ingot"
+    },
+    "C": {
+      "item": "multiclass:soul_piece"
+    }
+  },
+  "result": {
+    "id": "multiclass:life_giver",
+    "count": 1
+  }
+}

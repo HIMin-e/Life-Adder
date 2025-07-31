@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/multiclass/mixin/ExampleMixin": {
+      "runServer": "Lnet/minecraft/server/MinecraftServer;method_29741()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/multiclass/mixin/ExampleMixin": {
+        "runServer": "Lnet/minecraft/server/MinecraftServer;method_29741()V"
+      }
+    }
+  }
+}
